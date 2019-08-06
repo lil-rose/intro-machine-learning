@@ -85,7 +85,7 @@ Detailed:
     - Select data source -> Pimia indian diabetes study is a good source
 
 ```
-Using _Pima Indian Diabetes_ data, predict which people will develop diabetes.
+Using Pima Indian Diabetes data, predict which people will develop diabetes.
 ```
 2. Performance targets:
     - Binary result (True or False)
@@ -93,7 +93,7 @@ Using _Pima Indian Diabetes_ data, predict which people will develop diabetes.
     - Genetic difference are a factor
     - 70% accurancy is common target.
 ```
-Using _Pima Indian Diabetes_ data, predict with 70% or great accuracy, which people will develop diabetes.
+Using Pima Indian Diabetes data, predict with 70% or great accuracy, which people will develop diabetes.
 ```
 
 3. Context
@@ -102,7 +102,7 @@ Using _Pima Indian Diabetes_ data, predict with 70% or great accuracy, which peo
     - Unknown variations between people
     - Likelihood is used
 ```
-Using _Pima Indian Diabetes_ data, predict with 70% or great accuracy, which people are likely to develop diabetes.
+Using Pima Indian Diabetes data, predict with 70% or great accuracy, which people are likely to develop diabetes.
 ```
 
 4. Solution creation
@@ -112,7 +112,7 @@ Using _Pima Indian Diabetes_ data, predict with 70% or great accuracy, which peo
         - 
 
 ```
-Using the Machine Learning Workflow to process and transform _Pima Indian Diabetes_ data to create a prediction model. This model must predict which people are likely to develop diabetes with 70% or great accuracy.
+Using the Machine Learning Workflow to process and transform Pima Indian Diabetes data to create a prediction model. This model must predict which people are likely to develop diabetes with 70% or great accuracy.
 ```
 
 ## Preparing data
